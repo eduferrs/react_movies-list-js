@@ -1,7 +1,7 @@
 /* eslint-disable max-len */
 
 import './App.scss';
-import movies from './api/movies';
+import movies from './api/movies.json';
 import { Sidebar } from './components/Sidebar';
 import { MovieList } from './components/MovieList';
 
